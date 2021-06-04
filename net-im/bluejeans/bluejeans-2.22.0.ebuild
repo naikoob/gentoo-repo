@@ -7,7 +7,7 @@ inherit rpm
 
 DESCRIPTION="Online meetings, video conferencing, and screen sharing for teams of any size"
 HOMEPAGE="https://www.bluejeans.com"
-EXTRA_VERSION=11
+EXTRA_VERSION=87
 RPMV="${PV}.${EXTRA_VERSION}"
 SRC_URI="https://swdl.bluejeans.com/desktop-app/linux/${PV}/BlueJeans_${RPMV}.rpm"
 LICENSE="BlueJeans"
